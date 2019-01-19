@@ -1,0 +1,10 @@
+{
+    entry = {
+			bundle = NetworkLinkIndicator;
+			cell = PSLinkCell;
+			detail = NetworkLinkIndicatorListController;
+			icon = NetworkLinkIndicator.png;
+			isController = 1;
+			label = NetworkLinkIndicator;
+    };
+}

@@ -1,0 +1,9 @@
+Package: lt.pagefau.return0e.networklinkindicator
+Name: NetworkLinkIndicator
+Depends: mobilesubstrate
+Version: 0.5.0
+Architecture: iphoneos-arm
+Description: Show a simple indicator/banner when using Apple's NetworkLinkConditioner on iOS.
+Maintainer: Calvin Hill
+Author: Calvin Hill
+Section: Tweaks
