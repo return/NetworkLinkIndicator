@@ -1,6 +1,6 @@
 ## NetworkLinkIndicator
 
-A tweak to show a banner of Apple's NetworkLinkConditioner running in the background, similar to the macOS version of the tool which shows a StatusBar item.
+A tweak to show a banner of Apple's NetworkLinkConditioner on iOS running in the background, similar to the macOS version of the tool which shows a StatusBar item.
 
 When switched on, this tool shows a banner whenever the NetworkLinkConditioner is switched on. That's it. This is useful for switching between profiles and you forget to turn off the conditioner when testing.
 
