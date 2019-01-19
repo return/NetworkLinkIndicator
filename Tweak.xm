@@ -31,7 +31,7 @@
 }
 
 @property (nonatomic) BOOL currentEnabledSetting;
-@property (nonatomic) BOOL acrEnabled;	
+@property (nonatomic) BOOL nliEnabled;	
 
 +(NLISwitchController*)sharedInstance;
 -(void)updateSettings;
